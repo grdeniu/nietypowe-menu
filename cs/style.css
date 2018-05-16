@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    color: black;
+}
+
+#main-nav {
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+}
+
+ul {
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+
+
+.menu {
+    display: inline-block;
+    padding: 0px;
+    margin: 20px;
+    color: white;
+} 
+
+.menu a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.float {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    text-align: right;
+}
+
+.triangle {
+    padding-top: 50px;
+    border-bottom: 50px solid white;
+    border-left: 768px solid transparent;
+    border-right: 768px solid transparent;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
